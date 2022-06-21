@@ -1,0 +1,57 @@
+/* Allgemeine styles */
+
+.container-fluid > div {
+    background-color: #FEBD2D;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-around;
+}
+
+.products {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    height: 400px !important;
+}
+
+footer {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #FEBD2D;
+    margin: 40px;
+    padding: 30px;
+}
+
+.link {
+    width: 100vw;
+    text-align: center;
+    height: 70px;
+}
+
+/* Typography */
+
+h1 {
+    font-weight: bold !important;
+    margin: 60px 60px 40px 60px!important;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold !important;
+}
+
+a {
+    padding: 15px;
+    border-radius: 20px;
+    font-weight: bold !important;
+    width: 100px !important;
+    background-color: #FEBD2D !important;
+    color: #2D2B2D !important;
+}
