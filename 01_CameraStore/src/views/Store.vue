@@ -6,7 +6,7 @@
       <section class="hero">
         <div class="heroText">
           <h1 v-show="true" v-text="mainTitle">Wird geladen</h1>
-          <p v-if="true" v-show="true" v-text="infoNormal">Wird geladen</p>
+          <p v-if="false" v-show="true" v-text="infoNormal">Wird geladen</p>
           <p v-else v-show="true" v-text="infoChristmas">Wird geladen</p>
         </div>
       </section>
@@ -14,6 +14,21 @@
 
     <!-- main -->
     <main>
+      <!-- ads -->
+      <section class="ads">
+      <h2>Gesponserter Inhalt</h2>
+      <a v-if="false"
+         :href="adNormal.url"
+         :target="adNormal.target"
+         :tabindex="adNormal.tabindex"
+      ><p v-text="adNormal.title"></p></a>
+      <a v-else
+         :href="adChristmas.url"
+         :target="adChristmas.target"
+         :tabindex="adChristmas.tabindex"
+      ><p v-text="adChristmas.title"></p></a>
+    </section>
+
       <!-- section 1 -->
       <section class="section1">
         <!-- Kameras -->
@@ -46,20 +61,6 @@
           <p>Eingelöste Coupons: {{ discount }}</p>
           <a @click="updatePrice">Jetzt 50% Rabatt erhalten</a>
         </section>
-      </section>
-      <!-- ads -->
-      <section class="ads">
-        <h2>Gesponserter Inhalt</h2>
-        <a v-if="true"
-           :href="adNormal.url"
-           :target="adNormal.target"
-           :tabindex="adNormal.tabindex"
-        ><p v-text="adNormal.title"></p></a>
-        <a v-else
-           :href="adChristmas.url"
-           :target="adChristmas.target"
-           :tabindex="adChristmas.tabindex"
-        ><p v-text="adChristmas.title"></p></a>
       </section>
     </main>
 

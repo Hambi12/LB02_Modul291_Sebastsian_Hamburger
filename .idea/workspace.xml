@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42cc3b57-ad6c-4984-9d65-6dafaa2ebbb8" name="Changes" comment="." />
+    <list default="true" id="42cc3b57-ad6c-4984-9d65-6dafaa2ebbb8" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_CameraStore/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/01_CameraStore/src/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_CameraStore/src/views/Kontakt.vue" beforeDir="false" afterPath="$PROJECT_DIR$/01_CameraStore/src/views/Kontakt.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_CameraStore/src/views/Store.vue" beforeDir="false" afterPath="$PROJECT_DIR$/01_CameraStore/src/views/Store.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0b690932ce18f6b72ceef5f7f2300903.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0b690932ce18f6b72ceef5f7f2300903.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/289c886c3eb24b4bdf5bc382fd560e87.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/289c886c3eb24b4bdf5bc382fd560e87.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a05a7edd43c0b31dcb744e4e84596ce7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a05a7edd43c0b31dcb744e4e84596ce7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/50567d0e2d752185316b9b2e2a2c9821.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/50567d0e2d752185316b9b2e2a2c9821.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5201d0f4a2976b082d1c79c220e43eef.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5201d0f4a2976b082d1c79c220e43eef.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/780bc1b07d9f3523d9c2bad90e6540a7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/780bc1b07d9f3523d9c2bad90e6540a7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/802d905124cc686cf0ab43104fe6d62b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/802d905124cc686cf0ab43104fe6d62b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9eeba758506a9337111a6e9b9e6469ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9eeba758506a9337111a6e9b9e6469ae.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d73fc84313acaf60e6ff26486897673a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d73fc84313acaf60e6ff26486897673a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d7c1d0fcd25ad72976fc431e44fead11.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d7c1d0fcd25ad72976fc431e44fead11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f802177f33b78e6a0da81ff0fa18b69a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f802177f33b78e6a0da81ff0fa18b69a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +55,7 @@
     <setting file="file://$PROJECT_DIR$/01_CameraStore/src/styles/style.scss" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/02_AppClientServer/client/src/store/03_webshop-1.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/01_CameraStore/src/views/About.vue" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/01_CameraStore/src/views/Store.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/01_CameraStore/src/views/Store.vue" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/01_CameraStore/src/store/01_store.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/01_CameraStore/src/App.vue" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -111,7 +128,8 @@
       <updated>1655886115247</updated>
       <workItem from="1655886120900" duration="3279000" />
       <workItem from="1655889710974" duration="1774000" />
-      <workItem from="1656401746651" duration="9959000" />
+      <workItem from="1656401746651" duration="11266000" />
+      <workItem from="1656510596265" duration="6103000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1656508190613</created>
