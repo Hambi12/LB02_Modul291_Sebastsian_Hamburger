@@ -1,7 +1,7 @@
 import Vue from 'vue'
 
-//import App-03.vue
-import App from './App-03.vue'
+//import Shop.vue
+import App from './Shop.vue'
 import store from './store/03_webshop-1'
 
 //Import Bootstrap

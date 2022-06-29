@@ -1,0 +1,57 @@
+/* Allgemein Design */
+
+.container-fluid > div {
+    background-color: #024442;
+    padding: 35px;
+    margin: 40px;
+    opacity: 85%;
+    color: white !important;
+}
+
+.container-fluid {
+    display: compact;
+    justify-content: space-around;
+}
+
+footer {
+    text-align: center;
+    background-color: #024442;
+    margin: 40px;
+    padding: 30px;
+    opacity: 85%;
+}
+
+
+/* Schriften */
+
+h1 {
+    font-weight: bold !important;
+    margin: 40px 40px 40px 40px!important;
+    text-align: center;
+    color: #024442;
+}
+
+h2 {
+    font-weight: bold !important;
+    color: white;
+}
+
+p {
+    color: #024442;
+    text-align: center;
+
+}
+
+p.footer {
+    color: white;
+    text-align: start;
+}
+
+th {
+    text-align: center;
+    color: white;
+}
+
+td {
+    color: white;
+}

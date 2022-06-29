@@ -2,8 +2,8 @@ const path = require('path')
 module.exports = {
     pages: {
         'index': {
-            //entry: './01_AppRestaurant/src/main.js',
-            entry: './02_AppClientServer/client/src/main.js',
+           entry: './01_CameraStore/src/main.js',
+            //entry: './02_AppClientServer/client/src/main.js',
             template: 'public/index.html',
             title: 'State in vue'
         }

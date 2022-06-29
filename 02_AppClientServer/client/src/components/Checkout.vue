@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h2>Checkout</h2>
-    Total CHF {{ cartTotal.toFixed(2) }}.
-    <b-button variant="primary" @click="checkout">Zur Kasse</b-button>
+    <h2>Kasse</h2>
+  Total CHF {{ cartTotal.toFixed(2) }}
+    <b-button variant="primary" @click="checkout">Bezahlen</b-button>
   </div>
 </template>
 
@@ -14,8 +14,8 @@ export default {
   computed: mapGetters(['cartTotal']),
   methods: {
     checkout() {
-      if (this.cartTotal > 0) alert('Checkout processed!');
-      else alert('Please add a product!')
+      if (this.cartTotal > 0) alert('Vielen Dank für ihre Bestellung');
+      else alert('Bitte fügen sie ein Produkt hinzu')
     }
   }
 }

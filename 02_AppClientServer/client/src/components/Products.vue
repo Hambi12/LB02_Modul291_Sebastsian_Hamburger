@@ -1,12 +1,12 @@
 <template>
   <div>
-      <h2>Produkte</h2>
+      <h2>Kameras</h2>
       <table>
         <thead>
         <tr>
-          <th>Produkt</th>
+          <th>Kamera</th>
           <td>&nbsp;&nbsp;&nbsp;</td>
-          <th>Preis</th>
+          <th>Miete</th>
           <th>&nbsp;</th>
         </tr>
         </thead>

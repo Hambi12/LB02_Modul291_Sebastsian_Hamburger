@@ -1,0 +1,10 @@
+ <!-- most popular products -->
+        <section class="mostPopularProducts">
+          <h2>Am beliebtesten</h2><br>
+          <ol>
+            <li v-for="(item, n) in mostPopularProducts" :key="n">
+              {{ item }}
+            </li>
+          </ol>
+        </section>
+      </section>
